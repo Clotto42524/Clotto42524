@@ -1,6 +1,6 @@
 # Hi, I'm Clyde 👋
 
-I'm transitioning from a decade in Product Management / Product Ops into Cloud Engineering, with a focus on Data. Currently building toward AWS Cloud Practitioner and Solutions Architect Associate.
+After a decade in Product Management / Product Ops, I'm transitioning into Cloud Engineering, with a focus on Data. Currently building toward AWS Cloud Practitioner and Solutions Architect Associate.
 
 ## What I'm doing right now
 
@@ -10,12 +10,11 @@ I'm transitioning from a decade in Product Management / Product Ops into Cloud E
 
 ## Background
 
-10 years in Product Management and Product Operations (SimCorp, AVIV Group, Babbel, and others), now applied to infrastructure work: I bring an operational eye for reliability, documentation, and stakeholder communication that's often missing from purely technical profiles.
+10 years in Product Management and Product Operations (SimCorp, AVIV Group, Babbel, and others), now applied to infrastructure work: I bring a detail-oriented, highly analytical mindset combined with a deep understanding of user needs and stakeholder communication that's often missing from purely technical profiles. My favorite questions: "What problem are we solving?" and "Why is this a problem?"
 
 ## Skills & Certifications
 
-**Certified:** AWS Cloud Practitioner
-**In progress:** AWS Solutions Architect Associate
+**In progress:** AWS Cloud Practitioner, AWS Solutions Architect Associate
 
 **Working with:** AWS · Terraform · Kubernetes · GitHub Actions · Linux · Python
 
@@ -26,11 +25,13 @@ I'm intentionally not linking projects here yet — I'd rather this page catch u
 ## Other Interests
 
 As a language enthusiastic, I've learned Korean, German, and French to proficient levels and have spent time studying Italian, Mandarin, and Russian... to varying levels of success 😅
+
 Food is my other passion - please tell me about your favorite 🍕 or 🍜 place.
 
 ## Let's connect
+
 [LinkedIn](www.linkedin.com/in/clydechoi)   
 
 ## Current location
-📍 Hamburg, Germany 
-but open to relocation anywhere in Europe and the US (Dual Citizen)
+
+📍 Hamburg, Germany but open to relocation anywhere in Europe and the US (Dual Citizen)
