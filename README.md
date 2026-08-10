@@ -4,8 +4,9 @@ I'm transitioning from a decade in Product Management / Product Ops into Cloud E
 
 ## What I'm doing right now
 
+- ☁️ Working through a bootcamp for Cloud Engineering
 - 🏗️ Building the AWS Cloud Resume Challenge — console-first, then rebuilt in Terraform
-- 📚 Working through AWS CP and SAA certifications
+- 📚 Preparing for AWS CP and SAA certifications
 
 ## Background
 
@@ -22,7 +23,14 @@ I'm transitioning from a decade in Product Management / Product Ops into Cloud E
 
 I'm intentionally not linking projects here yet — I'd rather this page catch up to real, working repos than list certs and call it a portfolio. Pinned repos below will fill in as the Cloud Resume Challenge and follow-on Terraform/Kubernetes projects go live.
 
+## Other Interests
+
+As a language enthusiastic, I've learned Korean, German, and French to proficient levels and have spent time studying Italian, Mandarin, and Russian... to varying levels of success 😅
+Food is my other passion - please tell me about your favorite 🍕 or 🍜 place.
+
 ## Let's connect
 [LinkedIn](www.linkedin.com/in/clydechoi)   
 
-📍 Hamburg, Germany but open to relocation anywhere in Europe and the US (Dual Citizen)
+## Current location
+📍 Hamburg, Germany 
+but open to relocation anywhere in Europe and the US (Dual Citizen)
